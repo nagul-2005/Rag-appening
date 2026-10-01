@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "query": "What is the ReAct pattern in Agentic AI systems?",
+    "category": "Architecture & Patterns",
+    "expected_topics": [
+      "Reasoning and Acting loop",
+      "Thought-Action-Observation sequence",
+      "Interactions with tools and environment"
+    ]
+  },
+  {
+    "id": 2,
+    "query": "How do multi-agent collaboration frameworks function?",
+    "category": "Multi-Agent Systems",
+    "expected_topics": [
+      "Role specialization and division of labor",
+      "Inter-agent communication protocols",
+      "Hierarchical vs peer-to-peer orchestration"
+    ]
+  },
+  {
+    "id": 3,
+    "query": "What are the primary mechanisms for tool usage and execution by AI agents?",
+    "category": "Tool Integration",
+    "expected_topics": [
+      "Function calling schemas",
+      "API integrations and sandboxed execution",
+      "Structured output parsing"
+    ]
+  },
+  {
+    "id": 4,
+    "query": "Explain the concept of reflection and self-correction architecture in agentic workflows.",
+    "category": "Self-Improvement",
+    "expected_topics": [
+      "Critique nodes and evaluation steps",
+      "Iterative refinement loops",
+      "Error recovery and state backtracking"
+    ]
+  },
+  {
+    "id": 5,
+    "query": "What is the difference between single-agent systems and multi-agent workflows?",
+    "category": "Comparative Analysis",
+    "expected_topics": [
+      "Complexity management across domain tasks",
+      "Context window efficiency and prompt isolation",
+      "Specialized agent roles vs monolithic prompts"
+    ]
+  },
+  {
+    "id": 6,
+    "query": "How does human-in-the-loop governance improve AI agent safety and reliability?",
+    "category": "Safety & Governance",
+    "expected_topics": [
+      "Approval gates for sensitive actions",
+      "Human feedback loops and intervention",
+      "Risk mitigation and auditability"
+    ]
+  }
+]
